@@ -1,5 +1,5 @@
 **Grupo-N-9---SistemaDeVentaDeJuegosDigitales**
-Tomás Pierro-Robledo Lucas-Pavan Lucio
+Tomás Pierro-Pavan Lucio
 
 [MOCKUPS](https://www.figma.com/design/jVsbVjOFAyKurvan0sdpV9/Untitled?node-id=0-1&t=4zvCa9buXjpFJIHg-1) 
 
