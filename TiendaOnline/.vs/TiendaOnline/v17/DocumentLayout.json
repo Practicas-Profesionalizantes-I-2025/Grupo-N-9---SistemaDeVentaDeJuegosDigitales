@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomas\\source\\repos\\TiendaOnline\\",
+  "WorkspaceRootPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\source\\repos\\tiendaonline\\clasestienda\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\tpgit\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|solutionrelative:clasestienda\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\tpgit\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelos\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|solutionrelative:clasestienda\\modelos\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\tpgit\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|solutionrelative:clasestienda\\modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\tpgit\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\repositorios\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|solutionrelative:clasestienda\\repositorios\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\tpgit\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|solutionrelative:clasestienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\tpgit\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\bibliotecadeclases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\BibliotecaDeClases.csproj|solutionrelative:clasestienda\\bibliotecadeclases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22B891-EDC8-4ECF-AA38-B3FAE526B8F1}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\lucio\\onedrive\\escritorio\\tpgit\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A22B891-EDC8-4ECF-AA38-B3FAE526B8F1}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 391,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BibliotecaDeClases",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\BibliotecaDeClases.csproj",
+              "RelativeDocumentMoniker": "ClasesTienda\\BibliotecaDeClases.csproj",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\BibliotecaDeClases.csproj",
+              "RelativeToolTip": "ClasesTienda\\BibliotecaDeClases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T04:10:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Program.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Program.cs",
+              "RelativeToolTip": "ClasesTienda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:43:23.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Repositorios\\Generic.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Repositorios\\Generic.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Repositorios\\Generic.cs",
+              "RelativeToolTip": "ClasesTienda\\Repositorios\\Generic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:34:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelos\\Pago.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelos\\Pago.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelos\\Pago.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelos\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:16:19.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TiendaOnline\\ClasesTienda\\Class1.cs",
-              "RelativeDocumentMoniker": "ClasesTienda\\Class1.cs",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TiendaOnline\\ClasesTienda\\Class1.cs",
-              "RelativeToolTip": "ClasesTienda\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ClasesTienda\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:10:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\WinFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:06:31.136Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelos\\Juego.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelos\\Juego.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\TPgit\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelos\\Juego.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelos\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T21:26:34.255Z",
               "EditorCaption": ""
