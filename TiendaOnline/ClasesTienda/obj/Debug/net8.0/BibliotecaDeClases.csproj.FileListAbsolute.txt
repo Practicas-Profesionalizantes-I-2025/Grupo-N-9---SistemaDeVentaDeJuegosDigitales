@@ -1,6 +1,0 @@
-C:\Users\lucio\OneDrive\Escritorio\TPgit\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\BibliotecaDeClases.csproj.AssemblyReference.cache
-C:\Users\lucio\OneDrive\Escritorio\TPgit\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lucio\OneDrive\Escritorio\TPgit\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\BibliotecaDeClases.AssemblyInfoInputs.cache
-C:\Users\lucio\OneDrive\Escritorio\TPgit\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\BibliotecaDeClases.AssemblyInfo.cs
-C:\Users\lucio\OneDrive\Escritorio\TPgit\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
-C:\Users\lucio\OneDrive\Escritorio\TPgit\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\BibliotecaDeClases.sourcelink.json
