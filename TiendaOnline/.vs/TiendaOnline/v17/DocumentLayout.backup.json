@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A66135-7091-48A5-AC6C-CD0B4AA4120D}|front\\front.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66A66135-7091-48A5-AC6C-CD0B4AA4120D}|front\\front.csproj|solutionrelative:front\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\grupo-n-9---sistemadeventadejuegosdigitales\\tiendaonline\\clasestienda\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD93922-6DCA-4483-962B-D51510E8FB6E}|ClasesTienda\\ClasesTienda.csproj|solutionrelative:clasestienda\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\front\\Form1.cs",
+              "RelativeDocumentMoniker": "front\\Form1.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\front\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "front\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:11:29.115Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Producto.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Producto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:42:13.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Proveedor.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Proveedor.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:42:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Empleado.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Empleado.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Empleado.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:41:18.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Envio.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Envio.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Envio.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Envio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:41:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\FormaPago.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\FormaPago.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:42:52.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Pedido.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Pedido.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Pedido.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:41:36.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\PedidoProducto.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\PedidoProducto.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\PedidoProducto.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\PedidoProducto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:42:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:40:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Administrador.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Administrador.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Administrador.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:41:05.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Modelo\\Persona.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Modelo\\Persona.cs",
+              "RelativeToolTip": "ClasesTienda\\Modelo\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:26:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ClasesTienda\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\\TiendaOnline\\ClasesTienda\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "ClasesTienda\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:38:16.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

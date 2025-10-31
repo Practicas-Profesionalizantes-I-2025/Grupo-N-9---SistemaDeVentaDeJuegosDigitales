@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.sourcelink.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\bin\Debug\net8.0\ClasesTienda.deps.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\bin\Debug\net8.0\ClasesTienda.runtimeconfig.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\bin\Debug\net8.0\ClasesTienda.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\bin\Debug\net8.0\ClasesTienda.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\refint\ClasesTienda.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ClasesTienda.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Grupo-N-9---SistemaDeVentaDeJuegosDigitales\TiendaOnline\ClasesTienda\obj\Debug\net8.0\ref\ClasesTienda.dll
