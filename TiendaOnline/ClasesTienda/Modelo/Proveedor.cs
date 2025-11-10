@@ -12,6 +12,6 @@ namespace ClasesTienda.modelo
         public string NombreEmpresa { get; set; }
         public string Email { get; set; }
 
-        public ICollection<Producto> Productos { get; set; } // contiene depemdencias para navegar a la clase
+        public ICollection<Producto> Productos { get; set; } // contiene dependencias para navegar a la clase
     }
 }

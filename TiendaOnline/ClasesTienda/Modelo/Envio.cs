@@ -10,9 +10,7 @@ namespace ClasesTienda.modelo
     public class Envio
     {
        public int Id { get; set; }
-       public int IdPedido { get; set; }
-       public Pedido Pedido { get; set; }
-       public int DireccionEntrega { get; set; }
+       public int DetalleCompra { get; set; }
     
     }
 }
